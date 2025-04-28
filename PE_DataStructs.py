@@ -1,6 +1,4 @@
 # Patrick Sacchet
-# INFA 732
-# Lab 4 (extra credit)
 
 # My own implementations of native Windows structs using ctypes for easy casting and field manipulation
 

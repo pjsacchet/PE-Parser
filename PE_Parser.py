@@ -1,6 +1,4 @@
 # Patrick Sacchet
-# INFA 732
-# Lab 4 (extra credit)
 
 # Main file for interfacing with the user and parsing PE files 
 
